@@ -1,5 +1,6 @@
 # A.I_Chatbot
 Persanol Chat Bot Entegrated with A.I
 
-Just Type=> 
-python3 main.py
+**Just Type:**<br> 
+python3 main.py<br>
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
