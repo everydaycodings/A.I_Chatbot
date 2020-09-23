@@ -1,1 +1,1 @@
-pip3 install nltk
+nltk == 3.5
